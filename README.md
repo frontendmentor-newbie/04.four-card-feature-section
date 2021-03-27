@@ -12,7 +12,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ## Overview
 ![](./images/screenshot.png)
-- Live Site URL: [Four card feature section](https://four-card-feature-section-nahuel-p.vercel.app/)
+- Live Site URL: [Four card feature section](https://frontendmentor-newbie.github.io/04.four-card-feature-section/)
 
 - Solution: [Frontendmentor.io](https://www.frontendmentor.io/solutions/four-card-feature-section-htmlcss-Cs0A3Tp8L)
 - Challenge: [Hub](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
