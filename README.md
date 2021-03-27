@@ -11,7 +11,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 
 ## Overview
-![](./images/screenshot.png)
+![](./assets/images/screenshot.png)
 - Live Site URL: [Four card feature section](https://frontendmentor-newbie.github.io/04.four-card-feature-section/)
 
 - Solution: [Frontendmentor.io](https://www.frontendmentor.io/solutions/four-card-feature-section-htmlcss-Cs0A3Tp8L)
